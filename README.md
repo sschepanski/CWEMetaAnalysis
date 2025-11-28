@@ -23,7 +23,7 @@ The present project therefore provides a comprehensive systematic review and met
 
 ## Acknowledgements
 
-This meta-analysis was conceptualized and conducted by Dr. Steven Schepanski as part of the Cold-Water Exposure and Mental Health project at Charité – Universitätsmedizin Berlin, in collaboration with interdisciplinary partners.
+This meta-analysis was conceptualized and conducted by Dr. Steven Ngandeu Schepanski as part of the Cold-Water Exposure and Mental Health project at Charité – Universitätsmedizin Berlin, in collaboration with interdisciplinary partners.
 
 ## Getting Started
 
@@ -39,7 +39,7 @@ This meta-analysis was conceptualized and conducted by Dr. Steven Schepanski as 
 
 ## Contributions
 
-This project analysis was conducted by **Dr. Steven Schepanski** and represents a comprehensive study into the effects of hypnotherapy and aromatherapy on relaxation outcomes. It is part of the manuscript by Bogdanski et al.
+This project analysis was conducted by **Dr. Steven Ngandeu Schepanski**, Florian Batta and several Co-Authors. It is part of the manuscript by Ngandeu Schepanski, Batta et al.
 
 ## License
 
