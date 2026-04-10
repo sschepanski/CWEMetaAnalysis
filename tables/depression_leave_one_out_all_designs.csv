@@ -1,0 +1,7 @@
+dropped_study,study_label,k_remaining,estimate,se,ci_lb,ci_ub,p_value,tau2,direction,significant
+1,Blades et al. 2024,5,-0.55,0.23,-1.2,0.09,0.07,0.17,negative,FALSE
+6,Hinkka et al. 2016,5,-0.53,0.26,-1.26,0.19,0.11,0.23,negative,FALSE
+13,Epel et al. 2025,5,-0.45,0.28,-1.23,0.32,0.18,0.29,negative,FALSE
+4,Slezakova et al. 2025,5,-0.38,0.25,-1.09,0.32,0.21,0.25,negative,FALSE
+10,Petraskova Touskova et al. 2022,5,-0.35,0.23,-0.99,0.3,0.21,0.21,negative,FALSE
+5,Faid et al. 2022,5,-0.2,0.17,-0.69,0.28,0.3,0.07,negative,FALSE

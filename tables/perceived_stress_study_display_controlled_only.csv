@@ -1,0 +1,4 @@
+study_id,outcome_domain,design_type,yi,vi,effect_id,study_label,design,N_study,study_label_n
+1,Perceived Stress,controlled,0.2150524451203273,0.05171372960992907,stress_1,Blades et al. 2024,controlled,78,Blades et al. 2024 (N=78)
+3,Perceived Stress,controlled,0.2620628539506095,0.09845657127052004,stress_2,Ketelhut et al. 2023,controlled,41,Ketelhut et al. 2023 (N=41)
+13,Perceived Stress,controlled,-0.33057387390807647,0.057970107384450076,stress_4,Epel et al. 2025,controlled,70,Epel et al. 2025 (N=70)

@@ -1,0 +1,3 @@
+dropped_study,study_label,k_effects_remaining,n_studies_remaining,result_type,estimate,se,ci_lb,ci_ub,p_value,tau2_study,direction,significant
+6,Hinkka et al 2016,1,1,single_study_remaining,-0.19373140941804856,0.2637859094455897,-0.7107517919314044,0.32328897309530724,NA,NA,negative_better_for_cwe,NA
+9,Knill-Jones et al. 2024,1,1,single_study_remaining,0.1690310366682648,0.1287942453169821,-0.08340568415302013,0.42146775748954973,NA,NA,positive_worse_for_cwe,NA

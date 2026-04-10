@@ -1,0 +1,6 @@
+study_id,study_label,design_type,N_study,yi,vi,se,ci_lb,ci_ub
+1,Blades et al. 2024,controlled,78,0.21,0.05,0.23,-0.24,0.65
+4,Slezakova et al. 2025,controlled,24,-0.71,0.18,0.42,-1.54,0.12
+6,Hinkka et al. 2016,controlled,242,-0.02,0.02,0.13,-0.27,0.23
+10,Petraskova Touskova et al. 2022,controlled,14,-1.12,0.33,0.57,-2.24,0.01
+13,Epel et al. 2025,controlled,70,-0.34,0.06,0.24,-0.81,0.13

@@ -1,0 +1,6 @@
+study_id,study_label,design,N_study,k_effects,yi_agg,vi_agg,se,ci_lb,ci_ub
+3,Ketelhut et al. 2023,controlled,41,2,0.11,0.05,0.22,-0.33,0.54
+8,Huttunen et al. 2004,controlled,36,5,0.09,0.02,0.16,-0.22,0.4
+11,Reed et al. 2023,single_group,13,2,0.24,0.04,0.2,-0.15,0.62
+12,Yankouskaya et al. 2023,single_group,32,2,1.04,0.02,0.15,0.74,1.34
+13,Epel et al. 2025,controlled,70,2,0.26,0.03,0.17,-0.08,0.59

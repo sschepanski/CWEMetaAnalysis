@@ -1,0 +1,3 @@
+model,term,estimate,std.error,statistic,p.value
+main_all_designs,overall,0.684278067707554,0.34432585977440744,1.98729792806115,0.2967927688731209
+controlled_only,overall,NA,NA,NA,NA

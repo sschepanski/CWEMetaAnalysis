@@ -1,0 +1,4 @@
+study_id,outcome_domain,design_type,yi,vi,effect_id,study_label,design,N_study,study_label_n
+1,Anxiety,controlled,0.2722394304096169,0.05189236264401575,anx_1,Blades et al. 2024,controlled,78,Blades et al. 2024 (N=78)
+4,Anxiety,controlled,-0.8512530064588558,0.1829286611864437,anx_2,Slezakova et al. 2025,controlled,24,Slezakova et al. 2025 (N=24)
+9,Anxiety,single_group,0.08910813470752425,0.06844486758649651,anx_3,Knill-Jones et al. 2024,single_group,13,Knill-Jones et al. 2024 (N=13)

@@ -1,0 +1,6 @@
+dropped_study,study_label,k_effects_remaining,n_studies_remaining,estimate,se,ci_lb,ci_ub,p_value,tau2_study,tau2_effect,direction,significant
+8,Huttunen et al. 2004,8,4,0.44,0.22,-0.26,1.13,0.14,0.1,0.11,positive,FALSE
+3,Ketelhut et al. 2023,11,4,0.41,0.22,-0.28,1.1,0.16,0.13,0.06,positive,FALSE
+11,Reed et al. 2023,11,4,0.38,0.23,-0.35,1.11,0.2,0.17,0.03,positive,FALSE
+13,Epel et al. 2025,11,4,0.38,0.23,-0.36,1.12,0.2,0.17,0.03,positive,FALSE
+12,Yankouskaya et al. 2023,11,4,0.17,0.11,-0.18,0.52,0.22,0,0.04,positive,FALSE
