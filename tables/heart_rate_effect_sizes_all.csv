@@ -1,0 +1,4 @@
+study_id,outcome_name,study_label,design_type,N_study,yi,vi,se,ci_lb,ci_ub
+3,ΔHR,Ketelhut et al. 2023,controlled,41,-0.15,0.1,0.31,-0.76,0.46
+6,Heart rate,Hinkka et al 2016,controlled,242,-0.35,0.02,0.13,-0.61,-0.1
+11,Heart rate,Reed et al. 2023,single_group,16,-1.14,0.1,0.31,-1.76,-0.53

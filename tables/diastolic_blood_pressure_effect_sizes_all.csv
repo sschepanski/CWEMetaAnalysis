@@ -1,0 +1,4 @@
+study_id,outcome_name,study_label,design_type,N_study,yi,vi,se,ci_lb,ci_ub
+3,Diastolic Blood Pressure (DBP),Ketelhut et al. 2023,controlled,41,-0.13,0.1,0.31,-0.75,0.48
+6,Diastolic BP,Hinkka et al 2016,controlled,242,-0.1,0.02,0.13,-0.35,0.15
+11,Diastolic BP,Reed et al. 2023,single_group,16,0.88,0.08,0.28,0.33,1.44

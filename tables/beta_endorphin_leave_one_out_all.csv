@@ -1,0 +1,3 @@
+dropped_study,study_label,k_effects_remaining,n_studies_remaining,result_type,estimate,se,ci_lb,ci_ub,p_value,tau2_study,direction,significant
+7,Hirvonen et al 2002,1,1,single_study_remaining,-0.04,0.34,-0.7,0.62,NA,NA,negative_better_for_cwe,NA
+11,Reed et al. 2023,1,1,single_study_remaining,0.34,0.39,-0.41,1.1,NA,NA,positive_worse_for_cwe,NA

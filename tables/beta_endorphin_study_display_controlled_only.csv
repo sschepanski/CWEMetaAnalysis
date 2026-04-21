@@ -1,0 +1,2 @@
+study_id,outcome_name,study_label,design_type,N_study,yi,vi,se,ci_lb,ci_ub
+7,β-Endorphin,Hirvonen et al 2002,controlled,31,0.34,0.15,0.39,-0.41,1.1

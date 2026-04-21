@@ -1,0 +1,4 @@
+study_id,outcome_name,design,N_study
+1,Reactive Cortisol (AUCi),controlled,74
+10,Cortisol,controlled,12
+11,serum cortisol,single_group,8

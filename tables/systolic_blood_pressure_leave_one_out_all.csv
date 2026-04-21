@@ -1,0 +1,5 @@
+dropped_study,study_label,k_effects_remaining,n_studies_remaining,result_type,estimate,se,ci_lb,ci_ub,p_value,tau2_study,direction,significant
+3,Ketelhut et al. 2023,3,3,meta_analytic,0.31,0.27,-0.84,1.46,0.37,0.15,positive_worse_for_cwe,FALSE
+6,Hinkka et al 2016,3,3,meta_analytic,0.29,0.31,-1.05,1.64,0.45,0.19,positive_worse_for_cwe,FALSE
+7,Hirvonen et al 2002,3,3,meta_analytic,0.26,0.28,-0.95,1.47,0.45,0.18,positive_worse_for_cwe,FALSE
+11,Reed et al. 2023,3,3,meta_analytic,0.04,0.11,-0.45,0.52,0.78,0,positive_worse_for_cwe,FALSE

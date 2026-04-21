@@ -1,2 +1,2 @@
-study_id,outcome_domain,design_type,yi,vi,study_label,design,N_study,study_label_n
-6,Sleep,controlled,0.1690310366682648,0.01658795762677097,Hinkka et al 2016,controlled,242,Hinkka et al 2016 (N=242)
+study_id,study_label,design_type,N_study,yi,vi,se,ci_lb,ci_ub
+6,Hinkka et al 2016,controlled,242,-0.17,0.02,0.13,-0.42,0.08

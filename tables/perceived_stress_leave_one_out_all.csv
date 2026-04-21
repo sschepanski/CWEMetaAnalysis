@@ -1,5 +1,5 @@
 dropped_study,study_label,k_effects_remaining,n_studies_remaining,result_type,estimate,se,ci_lb,ci_ub,p_value,tau2_study,direction,significant
-3,Ketelhut et al. 2023,3,3,meta_analytic,-0.4787414915326811,0.45332029171628896,-2.429221282136595,1.4717382990712329,0.40166287450510485,0.5588233579408074,negative_better_for_cwe,FALSE
-1,Blades et al. 2024,3,3,meta_analytic,-0.4804738356980302,0.46304253404197093,-2.4727850587838254,1.5118373873877649,0.4084305253108228,0.5704230487017695,negative_better_for_cwe,FALSE
-13,Epel et al. 2025,3,3,meta_analytic,-0.2911497666501933,0.5268120322511217,-2.5578389952803446,1.9755394619799578,0.6360144526952297,0.7618528578120332,negative_better_for_cwe,FALSE
-5,Faid et al 2022,3,3,meta_analytic,0.03159612943357986,0.1962490179152233,-0.8127952432100072,0.8759875020771668,0.8868863198315614,0.049408433809847226,positive_worse_for_cwe,FALSE
+3,Ketelhut et al. 2023,3,3,meta_analytic,-0.48,0.45,-2.43,1.47,0.4,0.56,negative_better_for_cwe,FALSE
+1,Blades et al. 2024,3,3,meta_analytic,-0.48,0.46,-2.47,1.51,0.41,0.57,negative_better_for_cwe,FALSE
+13,Epel et al. 2025,3,3,meta_analytic,-0.29,0.53,-2.56,1.98,0.64,0.76,negative_better_for_cwe,FALSE
+5,Faid et al 2022,3,3,meta_analytic,0.03,0.2,-0.81,0.88,0.89,0.05,positive_worse_for_cwe,FALSE

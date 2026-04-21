@@ -1,3 +1,3 @@
 dropped_study,study_label,k_effects_remaining,n_studies_remaining,result_type,estimate,se,ci_lb,ci_ub,p_value,tau2_study,direction,significant
-1,Blades et al. 2024,1,1,single_study_remaining,-0.8512530064588558,0.42770160297390014,-1.6895481482877002,-0.012957864630011584,NA,NA,negative_better_for_cwe,NA
-4,Slezakova et al. 2025,1,1,single_study_remaining,0.2722394304096169,0.22779895224521063,-0.17424651599099594,0.7187253768102297,NA,NA,positive_worse_for_cwe,NA
+1,Blades et al. 2024,1,1,single_study_remaining,-0.85,0.43,-1.69,-0.01,NA,NA,negative_better_for_cwe,NA
+4,Slezakova et al. 2025,1,1,single_study_remaining,0.27,0.23,-0.17,0.72,NA,NA,positive_worse_for_cwe,NA

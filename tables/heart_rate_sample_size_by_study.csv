@@ -1,0 +1,4 @@
+study_id,outcome_name,design,N_study
+3,ΔHR,controlled,41
+6,Heart rate,controlled,242
+11,Heart rate,single_group,16

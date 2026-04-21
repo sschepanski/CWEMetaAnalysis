@@ -1,0 +1,7 @@
+study_id,design,change_mean_calc_Control,change_mean_calc_Intervention,change_mean_calc_SingleGroup,change_sd_calc_Control,change_sd_calc_Intervention,change_sd_calc_SingleGroup,n_change_Control,n_change_Intervention,n_change_SingleGroup,N_study
+1,controlled,-6.6,-4.57,NA,10.28,9.19,NA,41,37,NA,78
+4,controlled,0.77,-2.18,NA,4.89,2.58,NA,13,11,NA,24
+5,single_group,NA,NA,-3.89,NA,NA,3.64,NA,NA,29,29
+6,controlled,-0.9,-1,NA,4.47,4.45,NA,121,121,NA,242
+10,controlled,4.6,-0.75,NA,6.07,1.86,NA,7,7,NA,14
+13,controlled,-9.15,-11.5,NA,7.06,6.54,NA,36,34,NA,70

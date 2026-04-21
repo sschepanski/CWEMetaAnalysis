@@ -1,0 +1,3 @@
+model,k_effects,n_studies,estimate,se,ci_lb,ci_ub,p_value,tau2_study
+main_all_designs,4,4,0.21,0.21,-0.46,0.89,0.39,0.11
+controlled_only,3,3,0.04,0.11,-0.45,0.52,0.78,0

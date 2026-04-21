@@ -1,0 +1,3 @@
+study_id,outcome_name,study_label,design_type,N_study,yi,vi,se,ci_lb,ci_ub
+7,β-Endorphin,Hirvonen et al 2002,controlled,31,0.34,0.15,0.39,-0.41,1.1
+11,Serum β-endorphins,Reed et al. 2023,single_group,7,-0.04,0.11,0.34,-0.7,0.62

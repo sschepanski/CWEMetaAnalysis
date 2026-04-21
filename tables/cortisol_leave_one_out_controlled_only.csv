@@ -1,0 +1,3 @@
+dropped_study,study_label,k_effects_remaining,n_studies_remaining,result_type,estimate,se,ci_lb,ci_ub,p_value,tau2_study,direction,significant
+1,Blades et al. 2024,1,1,single_study_remaining,-0.79,0.62,-1.99,0.42,NA,NA,negative_better_for_cwe,NA
+10,Petraskova Touskova et al. 2022,1,1,single_study_remaining,-0.36,0.24,-0.82,0.1,NA,NA,negative_better_for_cwe,NA

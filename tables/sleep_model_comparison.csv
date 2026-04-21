@@ -1,3 +1,3 @@
-model,term,estimate,std.error,statistic,p.value
-main_all_designs,overall,0.06069354904287385,0.16602337443178744,0.3655723132396064,0.7768776341175954
-controlled_only,overall,0.1690310366682648,0.1287942453169821,NA,NA
+model,k_effects,n_studies,estimate,se,ci_lb,ci_ub,p_value,tau2_study
+main_all_designs,2,2,-0.17,0.12,-1.64,1.3,0.37,0
+controlled_only,1,1,-0.17,0.13,-0.42,0.08,NA,NA

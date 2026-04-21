@@ -1,0 +1,6 @@
+tau2_study_fixed,estimate,se,ci_lb,ci_ub,p_value,direction,significant
+0,-0.35,0.18,-1.13,0.44,0.2,negative_better_for_cwe,FALSE
+0.05,-0.36,0.23,-1.36,0.65,0.27,negative_better_for_cwe,FALSE
+0.1,-0.37,0.27,-1.54,0.81,0.31,negative_better_for_cwe,FALSE
+0.2,-0.38,0.33,-1.82,1.06,0.37,negative_better_for_cwe,FALSE
+0.4,-0.4,0.43,-2.24,1.44,0.45,negative_better_for_cwe,FALSE

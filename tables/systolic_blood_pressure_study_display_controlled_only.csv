@@ -1,0 +1,4 @@
+study_id,outcome_name,study_label,design_type,N_study,yi,vi,se,ci_lb,ci_ub
+3,Systolic Blood Pressure (SBP),Ketelhut et al. 2023,controlled,41,-0.1,0.1,0.31,-0.72,0.51
+6,Systolic BP,Hinkka et al 2016,controlled,242,0.06,0.02,0.13,-0.2,0.31
+7,Systolic BP,Hirvonen et al 2002,controlled,36,0.06,0.13,0.36,-0.65,0.77
