@@ -1,10 +1,4 @@
 study_id,study_label,design_type,N_study,k_effects,yi,vi,se,ci_lb,ci_ub
 3,Ketelhut et al. 2023,controlled,41,2,0.11,0.05,0.22,-0.33,0.54
-3,Ketelhut et al. 2023,controlled,41,2,0.11,0.05,0.22,-0.33,0.54
 8,Huttunen et al. 2004,controlled,36,5,0.09,0.02,0.16,-0.22,0.4
-8,Huttunen et al. 2004,controlled,36,5,0.09,0.02,0.16,-0.22,0.4
-8,Huttunen et al. 2004,controlled,36,5,0.09,0.02,0.16,-0.22,0.4
-8,Huttunen et al. 2004,controlled,36,5,0.09,0.02,0.16,-0.22,0.4
-8,Huttunen et al. 2004,controlled,36,5,0.09,0.02,0.16,-0.22,0.4
-13,Epel et al. 2025,controlled,70,2,0.26,0.03,0.17,-0.08,0.59
 13,Epel et al. 2025,controlled,70,2,0.26,0.03,0.17,-0.08,0.59
